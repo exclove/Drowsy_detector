@@ -34,18 +34,6 @@ A ResNet and Mediapipe-based system to detect drowsiness using a webcam. This pr
 **File Descriptions and Workflow**
 
 
-*colorizing.py*
-	
- Purpose: Preprocesses the dataset by converting grayscale images into colorized images.
- 
- How it works:
- 
-	    •	Loads raw grayscale images from the dataset.
-     
-	    •	Applies a predefined colorization algorithm to enhance image quality.
-     
-	    •	Saves the processed images for use in model training.
-
  *global_name_space.py*
  
 Purpose: Centralizes configuration and global variables for the project.
