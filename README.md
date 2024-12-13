@@ -81,3 +81,11 @@ How it works:
 	•	The project utilizes the MRL Eye Dataset available on Kaggle.
  
 	•	Special thanks to the creators of ResNet, Mediapipe, and the developers of Tadam.
+
+
+
+
+ This is screenshot of eyetracking by webcam 
+
+ <img width="959" alt="image" src="https://github.com/user-attachments/assets/280a8cf3-aacc-4466-afa7-95bf8cfc2ea0" />
+
