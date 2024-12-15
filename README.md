@@ -72,7 +72,8 @@ How it works:
  
 	•	Classifies eye states (open/closed) using the ResNet model.
  
-	•	Monitors the duration of closed eyes and triggers a warning if they remain closed for more than 5 seconds.
+	•	Monitors the duration of closed eyes and triggers a warning if they remain closed for 
+		more than 5 seconds.
 
 
 
